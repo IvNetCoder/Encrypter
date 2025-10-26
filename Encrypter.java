@@ -1,4 +1,3 @@
-package Java;
 import java.util.Scanner;
 
 public class Encrypter {
@@ -30,3 +29,4 @@ public class Encrypter {
         System.out.println("Encrypted text: " + encrypted);
     }
 }
+
